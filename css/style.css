@@ -36,7 +36,18 @@ a{
     top: 0;
     z-index: 10;
     padding-top: 15px;
-    padding-bottom: 20px;
+    padding-bottom: 15px;
+    border-bottom: solid;
+    border-bottom-color: #222b29;
+    border-bottom-width: 4px;
+}
+.footer-div{
+    background-color: #21cab4;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    border-top: solid;
+    border-top-color: #222b29;
+    border-top-width: 4px;
 }
 
 .top-div{
